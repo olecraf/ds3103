@@ -1,0 +1,6 @@
+@TrumpVerse_HostAddress = http://localhost:5182
+
+GET {{TrumpVerse_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

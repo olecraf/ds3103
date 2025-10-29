@@ -1,0 +1,949 @@
+{
+  "Version": 1,
+  "Hash": "tjVQScGyxqu94prRMgWXLc0C7vGAbMCqkK24BPiiBe4=",
+  "Source": "TrumpVerse",
+  "BasePath": "_content/TrumpVerse",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TrumpVerse\\wwwroot",
+      "Source": "TrumpVerse",
+      "ContentRoot": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\",
+      "BasePath": "_content/TrumpVerse",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\2f51d510-9fe4-42e1-b2b1-6371b760a424.jpg",
+      "SourceId": "TrumpVerse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\",
+      "BasePath": "_content/TrumpVerse",
+      "RelativePath": "images/2f51d510-9fe4-42e1-b2b1-6371b760a424#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0ouch2zekg",
+      "Integrity": "wDDTSS1CetSUtoXf3WEtDfEiEagIh0nP5FIRyZAYpHQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2f51d510-9fe4-42e1-b2b1-6371b760a424.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\3eab62a4-f9fb-4c3e-a1b0-3260d9b30817.jpg",
+      "SourceId": "TrumpVerse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\",
+      "BasePath": "_content/TrumpVerse",
+      "RelativePath": "images/3eab62a4-f9fb-4c3e-a1b0-3260d9b30817#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aeb7k6arxi",
+      "Integrity": "cgGWxStyyA5Quo9o73yXAj0tf5V48NbrjGIZ1r9ydKo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\3eab62a4-f9fb-4c3e-a1b0-3260d9b30817.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\98f78568-b7f8-413a-a1d4-9a94fe59801d.jpg",
+      "SourceId": "TrumpVerse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\",
+      "BasePath": "_content/TrumpVerse",
+      "RelativePath": "images/98f78568-b7f8-413a-a1d4-9a94fe59801d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5xfqw4hlak",
+      "Integrity": "5ywJ2EdafpjFaTyOpsBpbhaC1cZtRETJaWX9LcKSrmQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\98f78568-b7f8-413a-a1d4-9a94fe59801d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\default.jpg",
+      "SourceId": "TrumpVerse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\",
+      "BasePath": "_content/TrumpVerse",
+      "RelativePath": "images/default#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tzn1a5gz8h",
+      "Integrity": "uW12iTTOFW4hjOyZIiz+AZdrWnQDiM1YJoJe/IeXB9s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\default.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\e54cef2e-e117-4529-a32b-4ab8bd0b1d26.jpg",
+      "SourceId": "TrumpVerse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\",
+      "BasePath": "_content/TrumpVerse",
+      "RelativePath": "images/e54cef2e-e117-4529-a32b-4ab8bd0b1d26#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cyi3r5q9wv",
+      "Integrity": "tJF/QDWdQvAwTvQuyb38D/kHqzoEm5TIO2dePgxJAYU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\e54cef2e-e117-4529-a32b-4ab8bd0b1d26.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\e5504cb1-c632-4ee6-843c-7e8b9918bdc2.jpg",
+      "SourceId": "TrumpVerse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\",
+      "BasePath": "_content/TrumpVerse",
+      "RelativePath": "images/e5504cb1-c632-4ee6-843c-7e8b9918bdc2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5duxyc8y0k",
+      "Integrity": "B9aTfMQJTWLSpauDRVHOhnZj0tzi3xFx1DGk2FC+7XA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\e5504cb1-c632-4ee6-843c-7e8b9918bdc2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\f3ab089e-22ca-43b4-9dac-4cd5f4e1e344.jpg",
+      "SourceId": "TrumpVerse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\",
+      "BasePath": "_content/TrumpVerse",
+      "RelativePath": "images/f3ab089e-22ca-43b4-9dac-4cd5f4e1e344#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yul338dg2t",
+      "Integrity": "lptdoZW/P7SR9y5agYnq2noNow1K4r7MOaMrOkqQnX4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f3ab089e-22ca-43b4-9dac-4cd5f4e1e344.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\index.css",
+      "SourceId": "TrumpVerse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\",
+      "BasePath": "_content/TrumpVerse",
+      "RelativePath": "index#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.css"
+    },
+    {
+      "Identity": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\index.html",
+      "SourceId": "TrumpVerse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\",
+      "BasePath": "_content/TrumpVerse",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/2f51d510-9fe4-42e1-b2b1-6371b760a424.0ouch2zekg.jpg",
+      "AssetFile": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\2f51d510-9fe4-42e1-b2b1-6371b760a424.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wDDTSS1CetSUtoXf3WEtDfEiEagIh0nP5FIRyZAYpHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 03:22:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ouch2zekg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2f51d510-9fe4-42e1-b2b1-6371b760a424.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wDDTSS1CetSUtoXf3WEtDfEiEagIh0nP5FIRyZAYpHQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/2f51d510-9fe4-42e1-b2b1-6371b760a424.jpg",
+      "AssetFile": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\2f51d510-9fe4-42e1-b2b1-6371b760a424.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wDDTSS1CetSUtoXf3WEtDfEiEagIh0nP5FIRyZAYpHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 03:22:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wDDTSS1CetSUtoXf3WEtDfEiEagIh0nP5FIRyZAYpHQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/3eab62a4-f9fb-4c3e-a1b0-3260d9b30817.aeb7k6arxi.jpg",
+      "AssetFile": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\3eab62a4-f9fb-4c3e-a1b0-3260d9b30817.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cgGWxStyyA5Quo9o73yXAj0tf5V48NbrjGIZ1r9ydKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 03:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aeb7k6arxi"
+        },
+        {
+          "Name": "label",
+          "Value": "images/3eab62a4-f9fb-4c3e-a1b0-3260d9b30817.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cgGWxStyyA5Quo9o73yXAj0tf5V48NbrjGIZ1r9ydKo="
+        }
+      ]
+    },
+    {
+      "Route": "images/3eab62a4-f9fb-4c3e-a1b0-3260d9b30817.jpg",
+      "AssetFile": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\3eab62a4-f9fb-4c3e-a1b0-3260d9b30817.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cgGWxStyyA5Quo9o73yXAj0tf5V48NbrjGIZ1r9ydKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 03:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cgGWxStyyA5Quo9o73yXAj0tf5V48NbrjGIZ1r9ydKo="
+        }
+      ]
+    },
+    {
+      "Route": "images/98f78568-b7f8-413a-a1d4-9a94fe59801d.5xfqw4hlak.jpg",
+      "AssetFile": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\98f78568-b7f8-413a-a1d4-9a94fe59801d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3430251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5ywJ2EdafpjFaTyOpsBpbhaC1cZtRETJaWX9LcKSrmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 03:24:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5xfqw4hlak"
+        },
+        {
+          "Name": "label",
+          "Value": "images/98f78568-b7f8-413a-a1d4-9a94fe59801d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5ywJ2EdafpjFaTyOpsBpbhaC1cZtRETJaWX9LcKSrmQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/98f78568-b7f8-413a-a1d4-9a94fe59801d.jpg",
+      "AssetFile": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\98f78568-b7f8-413a-a1d4-9a94fe59801d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3430251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5ywJ2EdafpjFaTyOpsBpbhaC1cZtRETJaWX9LcKSrmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 03:24:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5ywJ2EdafpjFaTyOpsBpbhaC1cZtRETJaWX9LcKSrmQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/default.jpg",
+      "AssetFile": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\default.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uW12iTTOFW4hjOyZIiz+AZdrWnQDiM1YJoJe/IeXB9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 03:59:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uW12iTTOFW4hjOyZIiz+AZdrWnQDiM1YJoJe/IeXB9s="
+        }
+      ]
+    },
+    {
+      "Route": "images/default.tzn1a5gz8h.jpg",
+      "AssetFile": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\default.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uW12iTTOFW4hjOyZIiz+AZdrWnQDiM1YJoJe/IeXB9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 03:59:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tzn1a5gz8h"
+        },
+        {
+          "Name": "label",
+          "Value": "images/default.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uW12iTTOFW4hjOyZIiz+AZdrWnQDiM1YJoJe/IeXB9s="
+        }
+      ]
+    },
+    {
+      "Route": "images/e54cef2e-e117-4529-a32b-4ab8bd0b1d26.cyi3r5q9wv.jpg",
+      "AssetFile": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\e54cef2e-e117-4529-a32b-4ab8bd0b1d26.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "277505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tJF/QDWdQvAwTvQuyb38D/kHqzoEm5TIO2dePgxJAYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 03:23:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cyi3r5q9wv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/e54cef2e-e117-4529-a32b-4ab8bd0b1d26.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tJF/QDWdQvAwTvQuyb38D/kHqzoEm5TIO2dePgxJAYU="
+        }
+      ]
+    },
+    {
+      "Route": "images/e54cef2e-e117-4529-a32b-4ab8bd0b1d26.jpg",
+      "AssetFile": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\e54cef2e-e117-4529-a32b-4ab8bd0b1d26.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "277505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tJF/QDWdQvAwTvQuyb38D/kHqzoEm5TIO2dePgxJAYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 03:23:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tJF/QDWdQvAwTvQuyb38D/kHqzoEm5TIO2dePgxJAYU="
+        }
+      ]
+    },
+    {
+      "Route": "images/e5504cb1-c632-4ee6-843c-7e8b9918bdc2.5duxyc8y0k.jpg",
+      "AssetFile": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\e5504cb1-c632-4ee6-843c-7e8b9918bdc2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B9aTfMQJTWLSpauDRVHOhnZj0tzi3xFx1DGk2FC+7XA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 03:25:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5duxyc8y0k"
+        },
+        {
+          "Name": "label",
+          "Value": "images/e5504cb1-c632-4ee6-843c-7e8b9918bdc2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B9aTfMQJTWLSpauDRVHOhnZj0tzi3xFx1DGk2FC+7XA="
+        }
+      ]
+    },
+    {
+      "Route": "images/e5504cb1-c632-4ee6-843c-7e8b9918bdc2.jpg",
+      "AssetFile": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\e5504cb1-c632-4ee6-843c-7e8b9918bdc2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B9aTfMQJTWLSpauDRVHOhnZj0tzi3xFx1DGk2FC+7XA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 03:25:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B9aTfMQJTWLSpauDRVHOhnZj0tzi3xFx1DGk2FC+7XA="
+        }
+      ]
+    },
+    {
+      "Route": "images/f3ab089e-22ca-43b4-9dac-4cd5f4e1e344.jpg",
+      "AssetFile": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\f3ab089e-22ca-43b4-9dac-4cd5f4e1e344.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "386206"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lptdoZW/P7SR9y5agYnq2noNow1K4r7MOaMrOkqQnX4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 03:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lptdoZW/P7SR9y5agYnq2noNow1K4r7MOaMrOkqQnX4="
+        }
+      ]
+    },
+    {
+      "Route": "images/f3ab089e-22ca-43b4-9dac-4cd5f4e1e344.yul338dg2t.jpg",
+      "AssetFile": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\f3ab089e-22ca-43b4-9dac-4cd5f4e1e344.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "386206"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lptdoZW/P7SR9y5agYnq2noNow1K4r7MOaMrOkqQnX4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 03:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yul338dg2t"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f3ab089e-22ca-43b4-9dac-4cd5f4e1e344.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lptdoZW/P7SR9y5agYnq2noNow1K4r7MOaMrOkqQnX4="
+        }
+      ]
+    },
+    {
+      "Route": "index.5ipweew5fc.css",
+      "AssetFile": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 11:46:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "index.5ipweew5fc.html",
+      "AssetFile": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 11:46:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "index.css",
+      "AssetFile": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 11:46:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 11:46:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    }
+  ]
+}

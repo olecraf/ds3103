@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\2f51d510-9fe4-42e1-b2b1-6371b760a424.jpg",
+      "PackagePath": "staticwebassets\\images\\2f51d510-9fe4-42e1-b2b1-6371b760a424.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\3eab62a4-f9fb-4c3e-a1b0-3260d9b30817.jpg",
+      "PackagePath": "staticwebassets\\images\\3eab62a4-f9fb-4c3e-a1b0-3260d9b30817.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\98f78568-b7f8-413a-a1d4-9a94fe59801d.jpg",
+      "PackagePath": "staticwebassets\\images\\98f78568-b7f8-413a-a1d4-9a94fe59801d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\default.jpg",
+      "PackagePath": "staticwebassets\\images\\default.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\e54cef2e-e117-4529-a32b-4ab8bd0b1d26.jpg",
+      "PackagePath": "staticwebassets\\images\\e54cef2e-e117-4529-a32b-4ab8bd0b1d26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\e5504cb1-c632-4ee6-843c-7e8b9918bdc2.jpg",
+      "PackagePath": "staticwebassets\\images\\e5504cb1-c632-4ee6-843c-7e8b9918bdc2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\images\\f3ab089e-22ca-43b4-9dac-4cd5f4e1e344.jpg",
+      "PackagePath": "staticwebassets\\images\\f3ab089e-22ca-43b4-9dac-4cd5f4e1e344.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\index.css",
+      "PackagePath": "staticwebassets\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\Trynn\\webdev\\TrumpVerse\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TrumpVerse.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TrumpVerse.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TrumpVerse.props",
+      "PackagePath": "build\\TrumpVerse.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TrumpVerse.props",
+      "PackagePath": "buildMultiTargeting\\TrumpVerse.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TrumpVerse.props",
+      "PackagePath": "buildTransitive\\TrumpVerse.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
